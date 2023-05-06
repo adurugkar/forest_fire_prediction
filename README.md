@@ -100,13 +100,6 @@
 
 
 
-<!-- CONTACT -->
-## Contact
-[![Aravind Selvam | LinkedIn](https://img.shields.io/badge/Aravind_Selvam-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
-[![Aravind Selvam | G Mail](https://img.shields.io/badge/aravind9722-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
-[![GodWin1100 | GitHub](https://img.shields.io/badge/aravind-eeeeee?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&labelColor=blue)][reach_outlook]
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -125,8 +118,3 @@
 [mongodb]: https://www.mongodb.com/
 [flask]: https://flask.palletsprojects.com/en/2.1.x/
 [sklearn]: https://scikit-learn.org/stable/
-
-<!--contact-->
-[reach_linkedin]: https://www.linkedin.com/in/aravind-selvam/
-[reach_gmail]: mailto:aravind9722@gmail.com?subject=Github
-[reach_outlook]: mailto:aravind_selvam@outlook.com
